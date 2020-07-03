@@ -1,7 +1,4 @@
-# console-java-simple
-
-A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.
-
+# Learn JavaScript Core Fundamentals to Create Your Own Web Applications
 
 # Building manually
 
